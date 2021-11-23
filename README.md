@@ -1,4 +1,4 @@
-# Finalproject (Food_Mania)
+# Food_Mania
 
 ## HOSTING LINK
 
